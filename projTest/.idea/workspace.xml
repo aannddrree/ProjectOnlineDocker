@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80c55dd3-c45b-4ba5-a43f-a182f59b5d76" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../api-test-service/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../api-test-service/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../api-test-service/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../api-test-service/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../api-test-service/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../api-test-service/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../api-test-service/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../api-test-service/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../api-test-service/src/main/java/org/example/config/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../api-test-service/src/main/java/org/example/constant/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../api-test-service/src/main/java/org/example/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../api-test-service/src/main/java/org/example/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../api-test-service/src/main/java/org/example/model/dto/ProductDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../api-test-service/src/main/java/org/example/repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../api-test-service/src/main/java/org/example/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../api-test-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projmicroservice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projmicroservice/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projmicroservice/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projmicroservice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projmicroservice/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/extra/methods/Clusters.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/extra/methods/Clusters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/extra/methods/MinimumSpanningTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/extra/methods/MinimumSpanningTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/extra/methods/NewList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/extra/methods/NewList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/extra/methods/Noise.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/extra/methods/Noise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/extra/methods/Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/extra/methods/Sort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/filters/FilterDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/filters/FilterDuplicates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/filters/FilterEmpates.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/filters/FilterEmpates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/filters/FilterEmptySpaces.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/filters/FilterEmptySpaces.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/filters/FilterMaxEdge.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/filters/FilterMaxEdge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/filters/SolutionFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/filters/SolutionFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/flatmappers/CCMRMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/flatmappers/CCMRMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/main/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/main/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/main/Main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/main/Main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/main/Main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/main/Main$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/main/Main$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/main/Main$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/main/Main$HDBSCANStarParameters.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/main/Main$HDBSCANStarParameters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/mappers/AssignClusterLabelsMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/mappers/AssignClusterLabelsMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/mappers/Change.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/mappers/Change.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/mappers/ChangeKeyMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/mappers/ChangeKeyMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/mappers/ComponentToPairMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/mappers/ComponentToPairMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/mappers/ConstructADJMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/mappers/ConstructADJMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/mappers/EdgesMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/mappers/EdgesMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/mappers/FlatPartitionMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/mappers/FlatPartitionMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/mappers/InversoMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/mappers/InversoMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/mappers/MinimumSpanningTreeMapper2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/mappers/MinimumSpanningTreeMapper2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/mappers/Refresh.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/mappers/Refresh.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/mappers/RefreshLabelsMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/mappers/RefreshLabelsMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/mappers/RemoveMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/mappers/RemoveMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/mappers/SizeComponenteMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/mappers/SizeComponenteMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/mappers/TestMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/mappers/TestMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/mappers/UpdateSizeMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/mappers/UpdateSizeMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/mappers/WriteLevelMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/mappers/WriteLevelMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/reducers/ConstructADJReducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/reducers/ConstructADJReducer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/reducers/MSTReducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/reducers/MSTReducer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/reducers/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/reducers/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/reducers/SizeComponenteReducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/reducers/SizeComponenteReducer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/reducers/UpdateStabilityAndOutlierScoreReducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/reducers/UpdateStabilityAndOutlierScoreReducer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/reducers/UpdateStabilityReducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../cc-mr-new-algorithm-definitive/target/classes/reducers/UpdateStabilityReducer.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2dUuSPmNgBS4av204lqoDWq4BBF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/andreluizdasilva/Documents/POS-Doutorado-UFSCAR/projetoJOELSON/masterdegreeprojects-mapreduce-spark/ProjectOnline/projTest&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="projTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80c55dd3-c45b-4ba5-a43f-a182f59b5d76" name="Changes" comment="" />
+      <created>1710074978713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710074978713</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+</project>
