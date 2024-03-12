@@ -1,4 +1,4 @@
-# Para execução destas aplicações utilizando Docker
+# Como execução destas aplicações utilizando Docker
 
 * ARQUITETURA:
 
