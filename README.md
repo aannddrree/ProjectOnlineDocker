@@ -1,5 +1,10 @@
 # Para execução destas aplicações utilizando Docker
 
+* ARQUITETURA:
+
+![image](https://github.com/aannddrree/ProjectOnlineDocker/assets/8753843/455d8b3a-827e-4be7-9574-2926f4bec380)
+
+
 * APP JAVA SPRINGBOOT:
 
 Acessar o diretório "projTest" via terminar e executar:
