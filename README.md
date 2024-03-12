@@ -9,7 +9,7 @@ docker build -t aplicacao_spring .
 ```
 
 ```
-docker run --name java-container-test -d -p 8080:8080 aplicacao_spring 
+docker run --name java-container-test -d -p 8081:8080 aplicacao_spring 
 ```
 
 * PAGINA HTML (SERVER NGINX):
