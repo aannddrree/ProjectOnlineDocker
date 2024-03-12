@@ -41,4 +41,8 @@ docker ps
 
 ![image](https://github.com/aannddrree/ProjectOnlineDocker/assets/8753843/d8f13b95-c961-41fc-a458-51325b9a94bd)
 
+* RESULTADO:
 
+![image](https://github.com/aannddrree/ProjectOnlineDocker/assets/8753843/62cd95bb-1948-48fc-8f36-cd9236a25933)
+
+![image](https://github.com/aannddrree/ProjectOnlineDocker/assets/8753843/49802b91-6bf1-4d8c-a462-12c673567eab)
